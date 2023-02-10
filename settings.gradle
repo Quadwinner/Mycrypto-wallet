@@ -1,0 +1,5 @@
+include ':app'
+
+include ':core'
+include ':components:icons'
+include ':components:chartview'
