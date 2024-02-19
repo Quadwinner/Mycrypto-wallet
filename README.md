@@ -1,4 +1,4 @@
-# Unstoppable Wallet
+# crypto Wallet
 
 We dream of a world… A world where private property is untouchable and market access is unconditional.
 
